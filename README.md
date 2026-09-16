@@ -2,7 +2,7 @@ Hello World!  am called Lakht or Anes Benimam  video artist working on Game deve
 
 Math and Research Operation student 
 
-Jack of All trade, Master to Anything
+Jack of All trade, Master of Anything
 DM for collab
 <!---
 Lakhtus/Lakhtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
