@@ -10,12 +10,12 @@ DM for collab
 
 <a href="https://github.com/lakhtus">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?lakhtus&layout=donut&langs_count=5&theme=dark" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakhtus&layout=donut&langs_count=5&theme=dark" />
 </a>
 
 <a href="https://github.com/lakhtus">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?lakhtus&show_icons=true&theme=dark&hide_border=false" />
+       src="https://github-readme-stats.vercel.app/api?username=lakhtus&show_icons=true&theme=dark&hide_border=false" />
 </a>
 <!---
 Lakhtus/Lakhtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
