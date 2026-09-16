@@ -1,8 +1,8 @@
-- Lakht video artist working on Game developement 
-- 
-- 👀 Math and Research Operation student
-Despite everything it's still YOU
+Hello World!  am called Lakht or Anes Benimam  video artist working on Game developement 
 
+Math and Research Operation student 
+
+Jack of All trade, Master to Anything
 DM for collab
 <!---
 Lakhtus/Lakhtus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
